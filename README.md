@@ -1,2 +1,1 @@
-# smarthomendn.github.io
-.gi
+
